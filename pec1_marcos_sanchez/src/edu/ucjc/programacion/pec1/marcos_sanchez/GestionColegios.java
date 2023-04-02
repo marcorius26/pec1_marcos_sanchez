@@ -1,6 +1,9 @@
 package edu.ucjc.programacion.pec1.marcos_sanchez;
 
 public class GestionColegios {
+	
+	//Link al repositorio de GitHub.
+	//https://github.com/marcorius26/pec1_marcos_sanchez.git
 
 	public static void main(String[] args) {
 		
@@ -14,8 +17,5 @@ public class GestionColegios {
 		
 		
 		Alumno[] alumnos = UtilsColegio.nombrarAlumnos(numAlumnos);
-		
-		
-
 	}
 }
